@@ -101,7 +101,6 @@ function App() {
       music.currentSong &&
       <SongBar/>
     }
-
   </div>
   )
 }
