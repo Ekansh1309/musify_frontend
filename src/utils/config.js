@@ -1,1 +1,1 @@
-export const backendUrl= "http://localhost:3000"
+export const backendUrl= "https://musify-backend-1xqx.onrender.com"
