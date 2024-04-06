@@ -1,5 +1,5 @@
 import { openUploadWidget } from "../utils/CloudinaryService";
-import { cloudinary_upload_preset } from "../config.js";
+import { cloudinary_upload_preset } from "../Config";
 
 const CloudinaryUpload = ({formData,setFormData,setTrackName}) => {
   const uploadImageWidget = () => {
